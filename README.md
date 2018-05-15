@@ -14,7 +14,8 @@ test.py               生成测试csv
           tensorflow = 1.7.0
           h5py = 2.7.1
           
-3 测试方法 在命令行输入
+3 测试方法 （需要下载resnet的预训练模型）  
+在命令行输入
 python test.py --dataset_dir=<testset_dir> --target_file=<target_file>
 
 4 训练方法 先做数据集分隔 
