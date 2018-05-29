@@ -1,5 +1,5 @@
 # futurelab
-futurelab图像算法比赛的代码
+futurelab图像算法比赛的代码   比赛链接(http://ai.futurelab.tv/view)
 
 程序简介，系统要求，所以依赖的第三方程序和库及其版本信息，部署和运行方法说明
 
